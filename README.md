@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muh-younus&label=Profile%20views&color=0e75b6&style=flat" alt="muh-younus" /> </p>
 
-- 🌱 I’m currently learning **PYTHON,CPP,HTML,CSS,BOOSTRAP,JAVASCRIPT,PHP.**
+- 🌱 I’m currently learning **PYTHON,CPP,HTML,CSS,BOOSTRAP,JAVASCRIPT,React.js,TailwindCSS,PHP.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/muhammad-younus-b875b2267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**
 
